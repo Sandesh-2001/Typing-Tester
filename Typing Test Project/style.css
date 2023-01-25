@@ -1,0 +1,36 @@
+
+
+
+.div1{
+    background-color:  hsl(180, 92%, 51%);
+     color: red ;
+    font-weight: bold;
+    text-align: center;
+    font-size: 2cm;
+}
+h1{
+    color: red ;
+    font-weight: bold;
+    text-align: center;
+    font-size: 2cm;
+}
+p{
+    font-size: 0.5cm;
+    /* color: white; */
+}
+
+#ip {
+
+    size: 3cm;
+    color: #a200ff; 
+}
+
+#textarea {
+    border: 5px solid rgb(0, 255, 128);
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+#wrong,#wwords{
+    color: red;
+}
